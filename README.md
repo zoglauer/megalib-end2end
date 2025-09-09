@@ -1,3 +1,3 @@
-* MEGAlib end-to-end tests
+# MEGAlib end-to-end tests
 
 
