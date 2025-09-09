@@ -1,2 +1,3 @@
-# megalib-end2end
-Tools for MEGAlib end-to-emd testing
+* MEGAlib end-to-end tests
+
+
