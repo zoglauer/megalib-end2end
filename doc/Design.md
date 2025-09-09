@@ -1,1 +1,1 @@
-* Design document: MEGAlib end-to-end tests
+# Design document: MEGAlib end-to-end tests
