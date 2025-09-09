@@ -1,1 +1,1 @@
-* Requirements document: MEGAlib end-to-end testing
+# Requirements document: MEGAlib end-to-end testing
